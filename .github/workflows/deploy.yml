@@ -1,3 +1,4 @@
+# Trigger deployment after GitHub Pages source was set to Actions.
 name: Deploy to GitHub Pages
 
 on:
