@@ -2,7 +2,7 @@
 
 [中文](#中文) | [English](#english)
 
-Live site / 部署地址: https://corookie.github.io/Cyber-Divination/
+Live site / 部署地址: https://corookie.github.io/Cyber-Oracle/
 
 ## 中文
 
